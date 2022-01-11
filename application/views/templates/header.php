@@ -6,8 +6,13 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Website Resmi Desa Kertojayan</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+        <!-- WhatsApp Privew -->
+    <title>Website Resmi Desa Kertojayan</title>
+    <meta name="description" content="Website Resmi Desa Kertojayan Grabag Purworejo.">
+    <meta property="og:title" content="Desa Kertojayan" />
+    <meta property="og:url" content="<?= base_url(); ?>" />
+    <meta property="og:description" content="Desa Kertojayan Grabag Purworejo">
+    <meta property="og:image" content="<?= base_url() ?>assets/img/logo.png">
 
     <!-- Favicons -->
     <link href="<?= base_url(); ?>assets/img/logo.png" rel="icon">
